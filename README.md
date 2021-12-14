@@ -1,2 +1,2 @@
 # learn
-learn how to programming
+学无止境
